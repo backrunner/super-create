@@ -1,6 +1,6 @@
 {
   "name": "super-create",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Create cli tool that create something from boilerplate",
   "main": "./bin/cli.js",
   "bin": {
@@ -36,6 +36,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^9.3.0",
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "spdx-license-ids": "^3.0.11"
   }
 }

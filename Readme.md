@@ -1,20 +1,8 @@
 # super-create
 
-Create cli tool that create something from boilerplate
+Create a front-end project instantly from boilerplates.
 
-This project is created by [create-typescript-cli](https://github.com/backrunner/create-typescript-cli).
-
-## Usage
-
-To build this project, you can run this command:
-
-```
-npm run build
-```
-
-Also, you can use `npm run watch` to start a file changes.
-
-All changes you make will immediately trigger compilation and take effect on the generated script.
+**Warning: This project is still working in progress.**
 
 ## License
 

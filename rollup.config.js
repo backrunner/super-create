@@ -9,7 +9,7 @@ const external = Object.keys(pkg.dependencies || {}).concat(['fs/promises']);
 const extensions = ['.js', '.ts'];
 
 export default {
-  input: 'main.ts',
+  input: './src/main.ts',
   output: {
     file: './bin/cli.js',
     format: 'cjs',
