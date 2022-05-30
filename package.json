@@ -1,6 +1,6 @@
 {
   "name": "super-create",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create cli tool that create something from boilerplate",
   "main": "./bin/cli.js",
   "bin": {
