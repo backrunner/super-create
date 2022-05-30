@@ -11,7 +11,7 @@ import { LicenseIds } from '../utils/license';
 import { execAsync } from '../utils/exec';
 
 const getUserProjectInfo = async () => {
-  console.log(chalk.cyan('Firstly, you need to provide some necessary information to initialize your new project.'));
+  console.log(chalk.cyan('Firstly, you need to provide some necessary information to initialize your new project:\n'));
   const userProjectInfo: UserProjectInfo = await inquirer.prompt([
     {
       type: 'input',
