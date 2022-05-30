@@ -15,6 +15,14 @@
   },
   "author": "BackRunner",
   "license": "MIT",
+  "homepage": "https://github.com/backrunner/super-create",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/backrunner/super-create.git"
+  },
+  "bugs": {
+    "url": "https://github.com/backrunner/super-create/issues"
+  },
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@babel/eslint-parser": "^7.18.2",
