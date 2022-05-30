@@ -1,7 +1,7 @@
 {
   "name": "super-create",
-  "version": "0.1.0",
-  "description": "Create cli tool that create something from boilerplate",
+  "version": "0.1.1",
+  "description": "Create a front-end project instantly from a boilerplate repository",
   "main": "./bin/cli.js",
   "bin": {
     "super-create": "./bin/cli.js"
